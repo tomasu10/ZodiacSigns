@@ -1,0 +1,3 @@
+# Zodiac Signs App : Tomas Uribe Tobon 
+The Zodiac Signs App allows the user to input their birthday and the app returns the user's corresponding zodiac sign. Additionally, the user receives a short biography of their zodiac sign. The app is also capable of catching invalid entries in order to provide a more robust experience to the user. This project was completed in Java.
+![alt text](https://github.com/tomasu10/ZodiacSigns/blob/master/ZodiacSigns/FinalResultGIF.gif)
